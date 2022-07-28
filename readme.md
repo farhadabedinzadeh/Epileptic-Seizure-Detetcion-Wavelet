@@ -5,7 +5,7 @@ In contrast to Fourier analysis, which decomposes a signal into specific-frequen
 In this project The [Bonn dataset](https://repositori.upf.edu/handle/10230/42894) has been used.
  and for more infornation about dataset please kindly refer the following [article](https://doi.org/10.1103/physreve.64.061907)
 
- In this project you will learn about 
+ In this project you will learn about :
   1) Using Wavelet toolbox Matlab
   2) SVM with K-fold cross validation
   
